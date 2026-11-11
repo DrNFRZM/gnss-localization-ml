@@ -9,6 +9,11 @@ academic year 2023/2024. Supervisor: Prof. Stefano Tomasin.
 
 ## Abstract summary
 
+**Repository status:** thesis record and citation only. There is no source code,
+dataset, environment, or executable experiment in this repository, so the thesis
+results cannot be reproduced from this checkout. The university deposit is the
+primary academic artifact.
+
 The thesis studies GNSS localization as a classification problem. A neural
 network uses satellite positions and pseudorange measurements to predict which
 geographic tile contains a receiver. The work covers a multi-input architecture,
