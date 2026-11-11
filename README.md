@@ -1,7 +1,8 @@
 # GNSS localization by machine learning techniques
 
 My bachelor's thesis in Information Engineering at the University of Padova,
-academic year 2023/2024. Supervisor: Prof. Stefano Tomasin.
+academic year 2023/2024. Supervisors: Prof. Stefano Tomasin and
+Prof. Francesco Ardizzon. Graduation date stated in the thesis: 22 November 2024.
 
 - [Official UniPD thesis record](https://thesis.unipd.it/handle/20.500.12608/76849)
 - [Read the thesis PDF at UniPD](https://thesis.unipd.it/retrieve/d75544ba-7986-4328-81e1-693c144f41c0/NikbakhshJorshari_Farzam.pdf)
@@ -27,7 +28,7 @@ university record above.
 
 Farzam Nikbakhsh Jorshari. *GNSS localization by machine learning techniques*.
 Bachelor's thesis, Information Engineering, University of Padova, 2024
-(academic year 2023/2024). Supervisor: Stefano Tomasin.
+(academic year 2023/2024). Supervisors: Stefano Tomasin and Francesco Ardizzon.
 Persistent identifier: <https://hdl.handle.net/20.500.12608/76849>.
 
 This is the original undergraduate thesis, not a new journal or conference
